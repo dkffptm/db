@@ -1,0 +1,12 @@
+{
+  "/api/project/route": "app/api/project/route.js",
+  "/api/project/members/route": "app/api/project/members/route.js",
+  "/api/auth/signup/route": "app/api/auth/signup/route.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/api/project/invite/route": "app/api/project/invite/route.js",
+  "/page": "app/page.js",
+  "/login/page": "app/login/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/members/page": "app/dashboard/members/page.js",
+  "/signup/page": "app/signup/page.js"
+}
